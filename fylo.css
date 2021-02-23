@@ -56,7 +56,7 @@ main form input[type=email]{
 
 /* section part */
 section{
- background-image: url(/images/bg-curve-desktop.svg);
+ background-image: url(bg-curve-desktop.svg);
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
